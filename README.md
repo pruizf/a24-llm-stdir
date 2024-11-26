@@ -1,5 +1,8 @@
 # Stage direction classification in French theater with LLM
 Pablo Ruiz Fabo & Alexia Schneider, Université de Strasbourg
+
+Note: For our [earlier work](https://aclanthology.org/2024.latechclfl-1.28/) on fine-tuning BERT-based pre-trained language models, the [repository](https://github.com/thealtres/stage-direction-classif-french-transfer-learning) is at the Thealtres project GitHub group.
+
 # Repository structure
 
 - Clients to run the LLM are:
